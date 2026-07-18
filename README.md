@@ -1,9 +1,9 @@
-<!-- Анимированный заголовок -->
+<!-- Анимированный заголовок с информацией о Full-Stack и ИИ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hey+I'm+Kaimory;Building+AI+Products;React+%7C+TypeScript+%7C+Next.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hey+I'm+Kaimory;Full-Stack+Developer;Building+AI+Products;Using+AI+for+Development;React+%7C+Next.js+%7C+Python+%7C+FastAPI" />
 </p>
 
-<!-- Иконки технологий (React, VS Code, TS, Next, Python, FastAPI, MongoDB, Postgres) -->
+<!-- Иконки технологий, клауда и ИИ -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vscode,ts,nextjs,python,fastapi,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,fastapi,mongodb,postgres,gcp,vscode,ai" />
 </p>
