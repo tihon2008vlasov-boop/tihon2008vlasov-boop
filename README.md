@@ -60,7 +60,7 @@ const kaimory = {
 ### Текущая цель
 
 <p align="center">
-  <img src="https://progress-bar.dev/35/?title=Путь%20в%20США&width=400&color=3B82F6" />
+  <img src="https://img.shields.io/badge/Путь%20в%20США-35%25-3B82F6?style=for-the-badge" />
 </p>
 
 Учу английский, собираю портфолио сильных AI-проектов, участвую в международных хакатонах и ищу возможности для релокации.
