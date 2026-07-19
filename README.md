@@ -5,7 +5,7 @@
 
 <!-- Анимированный заголовок с печатной машинкой -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+AI+Products;Vibe-coding+my+way+through+life;Hackathon+addict;Dreaming+of+Silicon+Valley" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+AI+Products;Vibe-coding+my+way+through+life;Hackathon+addict;Dreaming+of+Silicon+Valley" />
 </p>
 
 <p align="center">
@@ -31,6 +31,10 @@ const kaimory = {
 - Постоянный участник хакатонов
 - Мечтаю переехать в США и строить продукты там
 - Постоянно учусь новому в мире веба и AI
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8d/d7/e9/8dd7e91ae4c73f27054ca0fb43bc80e3.gif" width="400" style="border-radius: 16px;" />
+</p>
 
 ---
 
