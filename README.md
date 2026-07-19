@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+AI+Products;Vibe-coding+my+way+through+life;Hackathon+addict;Dreaming+of+Silicon+Valley" />
 </p>
 
+<p align="center">
+  <img src="https://99px.ru/sstorage/86/2017/03/image_860703170920183441187.gif" width="400" style="border-radius: 16px;" />
+</p>
+
 ---
 
 ### Обо мне
