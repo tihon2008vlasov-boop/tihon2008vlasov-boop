@@ -44,15 +44,19 @@ const kaimory = {
 ### Стек технологий
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,python,fastapi,nodejs,mongodb,postgres,docker,gcp,vscode,git,figma&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-3B82F6?style=flat-square&logo=react" /><br/>
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20Node.js-8B5CF6?style=flat-square&logo=python" /><br/>
-  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20PostgreSQL-EC4899?style=flat-square&logo=postgresql" /><br/>
-  <img src="https://img.shields.io/badge/Cloud-GCP%20%7C%20Docker-10B981?style=flat-square&logo=googlecloud" /><br/>
-  <img src="https://img.shields.io/badge/AI%20Tools-Claude%20%7C%20Cursor%20%7C%20Copilot-F59E0B?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/React-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/MongoDB-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GCP-10B981?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/Claude-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Copilot-F59E0B?style=for-the-badge" />
 </p>
 
 ---
@@ -70,8 +74,8 @@ const kaimory = {
 ### Как со мной связаться
 
 <p align="center">
-  <a href="https://t.me/Kaimory2"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tihon-vlassov-3a6a743b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Kaimory2"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/tihon-vlassov-3a6a743b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
 </p>
 
 <!-- Волна снизу -->
