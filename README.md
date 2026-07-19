@@ -1,22 +1,11 @@
 <!-- Волна сверху -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=200&section=header&text=Hey,%20I'm%20Kaimory&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Hey,%20I'm%20Kaimory&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- Анимированный заголовок с печатной машинкой -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+AI+Products;Vibe-coding+my+way+through+life;Hackathon+addict;Dreaming+of+Silicon+Valley" />
-</p>
-
-<!-- Соцсети/бейджи -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Vibe--coding-3B82F6?style=for-the-badge&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goal-Move%20to%20USA-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hackathons-Always%20In-EC4899?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/bd/03/18/bd031872faec316f07425e4dbc9353c0.jpg" width="550" style="border-radius: 16px;" />
 </p>
 
 ---
@@ -64,5 +53,5 @@ const kaimory = {
 
 <!-- Волна снизу -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer" />
 </p>
