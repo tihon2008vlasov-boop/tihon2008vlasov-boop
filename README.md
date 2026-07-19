@@ -30,7 +30,7 @@ const kaimory = {
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Building+AI+products%2C+from+idea+to+production" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Actively+vibe-coding+with+AI+tools+(Claude%2C+Cursor%2C+Copilot)" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Actively+vibe-coding+with+AI+tools+(Claude%2C+Gemini%2C+Codex)" /><br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Regular+hackathon+participant" /><br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Dreaming+of+moving+to+the+USA+and+building+products+there" /><br/>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Constantly+learning+new+things+in+web+and+AI" />
@@ -47,7 +47,7 @@ const kaimory = {
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,python,fastapi,nodejs,mongodb,postgres,docker,gcp,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,python,fastapi,nodejs,mongodb,postgres,gcp,vscode,git&theme=dark" />
 </p>
 
 ---
