@@ -14,7 +14,9 @@
 
 ---
 
-<h3 style="color:#000000;">About Me</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=400&lines=About+Me" />
+</p>
 
 ```ts
 const kaimory = {
@@ -26,15 +28,13 @@ const kaimory = {
 };
 ```
 
-<div style="color:#000000;">
-
-- Building AI products, from idea to production
-- Actively vibe-coding — fast development alongside AI tools (Claude, Cursor, Copilot)
-- Regular hackathon participant
-- Dreaming of moving to the USA and building products there
-- Constantly learning new things in web and AI
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Building+AI+products%2C+from+idea+to+production" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Actively+vibe-coding+with+AI+tools+(Claude%2C+Cursor%2C+Copilot)" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Regular+hackathon+participant" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Dreaming+of+moving+to+the+USA+and+building+products+there" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=750&lines=Constantly+learning+new+things+in+web+and+AI" />
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/8d/d7/e9/8dd7e91ae4c73f27054ca0fb43bc80e3.gif" width="400" style="border-radius: 16px;" />
@@ -42,7 +42,9 @@ const kaimory = {
 
 ---
 
-<h3 style="color:#000000;">Tech Stack</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=400&lines=Tech+Stack" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,nextjs,js,python,fastapi,nodejs,mongodb,postgres,docker,gcp,vscode,git&theme=dark" />
@@ -50,13 +52,19 @@ const kaimory = {
 
 ---
 
-<h3 style="color:#000000;">Current Goal</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=400&lines=Current+Goal" />
+</p>
 
-<p style="color:#000000;">Learning English, building a portfolio of strong AI projects, taking part in international hackathons, and looking for relocation opportunities.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=900&lines=Learning+English%2C+building+an+AI+portfolio%2C+doing+hackathons%2C+seeking+relocation" />
+</p>
 
 ---
 
-<h3 style="color:#000000;">Get In Touch</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=100000&repeat=false&color=000000&center=true&vCenter=true&width=400&lines=Get+In+Touch" />
+</p>
 
 <p align="center">
   <a href="https://t.me/Kaimory2"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
